@@ -18,3 +18,9 @@ This project is part of a larger, ongoing research initiative that I joined duri
 
 ## Software Design - Digital Post Processing
 ![Block Diagram](Images/Kalman-Filter-Block-Diagram-Bird-Project.png)
+
+## Repository Structure
+- **BNO055**
+  - Data Collection Code ESP32 # Contains ESP32 Arduino code for logging output data from BNO055 9-DoF IMU
+  - Datasets # Contains raw CSV datalogs
+  - BNO055_Position_v1.py # Initial sample algorithm
