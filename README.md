@@ -12,6 +12,14 @@ Department of Electrical and Computer Engineering <br>
 Halligan Lab <br>
 Medford/Somerville Campus
 
+## Ackowledgements
+I would like to thank **Surya Varchasvi**, Research Fellow at Tufts University, for his mentorship and guidance throughout this project. His technical expertise and encouragement were instrumental in shaping the system architecture and experimental design. 
+
+I would also like to acknowledge **Rachel Riccio**, Biology PhD candidate at Tufts University, for her collaboration, insight, and ongoing support in applying this technology to real-world behavioral and physiological studies in birds.
+
+Special thanks to [Dr. Sameer Sonkusale](https://engineering.tufts.edu/ece/people/faculty/sameer-sonkusale) for the opportunity to work in the lab.
+
+
 ## Overview
 This repository contains firmware, data processing scripts, and analysis tools for an inertial motion unit (IMU)-based system designed to track bird flight in three dimensions. The system supports both the BNO055 and LSM6DS3 IMUs, with data collected via embedded microcontrollers and transmitted wirelessly for post-processing and visualization.
 
