@@ -16,5 +16,5 @@ This project is part of a larger, ongoing research initiative that I joined duri
 - Kalman Filter and Zero-Velocity Update (ZUPT) algorithms to reduce drift
 - Modular architecture to support sensor replacement and system scaling
 
-## Software Design and Digital Post Processing
-![Block Diagram]
+## Software Design - Digital Post Processing
+![Block Diagram](Images/Kalman Filter Block Diagram - Bird Project.jpg)
