@@ -14,9 +14,9 @@ Halligan Lab <br>
 Medford/Somerville Campus
 
 ## Ackowledgements
-I would like to thank **Surya Varchasvi**, Research Fellow at Tufts University, for his mentorship and guidance throughout this project. His technical expertise and encouragement were instrumental in shaping the system architecture and experimental design. 
+I would like to thank **Surya Varchasvi**, Research Fellow at Tufts University, for his mentorship and guidance throughout this project.  
 
-I would also like to acknowledge **Rachel Riccio**, Biology PhD candidate at Tufts University, for her collaboration, insight, and ongoing support in applying this technology to real-world behavioral and physiological studies in birds.
+I would also like to acknowledge **Rachel Riccio**, Biology PhD candidate at Tufts University, for her collaboration and ongoing support in applying this technology to real-world behavioral and physiological studies in birds.
 
 Special thanks to [Dr. Sameer Sonkusale](https://engineering.tufts.edu/ece/people/faculty/sameer-sonkusale) for the opportunity to work in the lab.
 
