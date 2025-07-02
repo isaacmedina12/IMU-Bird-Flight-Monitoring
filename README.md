@@ -15,3 +15,6 @@ This project is part of a larger, ongoing research initiative that I joined duri
 - Python scripts for filtering, integration, and 3D trajectory reconstruction
 - Kalman Filter and Zero-Velocity Update (ZUPT) algorithms to reduce drift
 - Modular architecture to support sensor replacement and system scaling
+
+## Software Design and Digital Post Processing
+![Block Diagram]
