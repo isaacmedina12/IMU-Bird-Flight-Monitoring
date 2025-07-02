@@ -21,6 +21,18 @@ This project is part of a larger, ongoing research initiative that I joined duri
 
 ## Repository Structure
 - **BNO055**
-  - Data Collection Code ESP32 # Contains ESP32 Arduino code for logging output data from BNO055 9-DoF IMU
-  - Datasets # Contains raw CSV datalogs
-  - BNO055_Position_v1.py # Initial sample algorithm
+  - Data Collection Code ESP32 --> Contains ESP32 Arduino code for logging output data from BNO055 9-DoF IMU
+  - Datasets --> Contains raw CSV datalogs
+  - 
+  - BNO055_Position_v1.py --> Initial simple algorithm for BNO055
+  - BNO055_Position_v2.py --> First Kalman filter and ZUPT algorithm implementation
+  
+- **Images**
+  - Contains various images related to the project, such as block diagrams, PCB designs, and miscellaneous pictures.
+
+- **LSM6DS3**
+  - Data Collection Code ESP32 --> Contains ESP32 Arduino code for logging output data from LSM6DS3 6-DoF IMU
+  - Datasets --> Contains raw CSV datalogs
+  - Figures --> Contains output figures from data analysis, such as position plots and state outputs
+  - IMU_to_Position1.py --> First algorithm code for POC
+
