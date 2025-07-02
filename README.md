@@ -1,5 +1,16 @@
 # IMU-Bird-Flight-Monitoring
-### Made by: Isaac Medina
+
+## Contributors
+- **Isaac Medina** - Firmware development, digital post processing, and visualization
+  - Tufts University Undergraduate - Class of 2027
+  - Electrical Engineering
+
+## Institutional Affiliations
+This project is conducted as part of ongoing research in the **Sonkusale Research Lab** in collaboration with the **Romero Lab**
+**Tufts University**
+Department of Electrical and Computer Engineering
+Halligan Lab
+Medford/Somerville Campus
 
 ## Overview
 This repository contains firmware, data processing scripts, and analysis tools for an inertial motion unit (IMU)-based system designed to track bird flight in three dimensions. The system supports both the BNO055 and LSM6DS3 IMUs, with data collected via embedded microcontrollers and transmitted wirelessly for post-processing and visualization.
