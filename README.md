@@ -17,4 +17,4 @@ This project is part of a larger, ongoing research initiative that I joined duri
 - Modular architecture to support sensor replacement and system scaling
 
 ## Software Design - Digital Post Processing
-![Block Diagram](Images/"Kalman Filter Block Diagram - Bird Project.jpg")
+![Block Diagram](Images/Kalman-Filter-Block-Diagram---Bird-Project.jpg)
