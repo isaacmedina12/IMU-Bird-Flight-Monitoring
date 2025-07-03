@@ -22,7 +22,7 @@ Special thanks to [Dr. Sameer Sonkusale](https://engineering.tufts.edu/ece/peopl
 
 
 ## Overview
-This repository contains firmware, data processing scripts, and analysis tools for an inertial motion unit (IMU)-based system designed to track bird flight in three dimensions. The system supports both the BNO055 and LSM6DS3 IMUs, with data collected via embedded microcontrollers and transmitted wirelessly for post-processing and visualization.
+This repository contains firmware, data processing scripts, and analysis tools for an inertial measurement unit (IMU)-based system designed to track bird flight in three dimensions. The system supports both the BNO055 and LSM6DS3 IMUs, collecting data via embedded microcontrollers and transmitting it wirelessly for post-processing and visualization.
 
 The goal of this project is to reconstruct accurate 3D motion paths of free-moving birds using lightweight, onboard IMU sensors. This enables researchers to monitor flight behavior and subtle movement patterns in a minimally invasive manner, with potential applications in ethology, biomechanics, and assessing environmental stress.
 
@@ -42,7 +42,7 @@ This project is part of a larger, ongoing research initiative that I joined duri
 ## Repository Structure
 - **BNO055**
   - Data Collection Code ESP32 --> Contains ESP32 Arduino code for logging output data from BNO055 9-DoF IMU
-  - Datasets --> Contains raw CSV datalogs
+  - Datasets --> Contains raw CSV data logs
   - Figures --> Contains output figures from data analysis, such as position plots and state outputs
   - BNO055_Position_v1.py --> Initial simple algorithm for BNO055
   - BNO055_Position_v2.py --> First Kalman filter and ZUPT algorithm implementation
@@ -52,7 +52,7 @@ This project is part of a larger, ongoing research initiative that I joined duri
 
 - **LSM6DS3**
   - Data Collection Code ESP32 --> Contains ESP32 Arduino code for logging output data from LSM6DS3 6-DoF IMU
-  - Datasets --> Contains raw CSV datalogs
+  - Datasets --> Contains raw CSV data logs
   - Figures --> Contains output figures from data analysis, such as position plots and state outputs
   - IMU_to_Position1.py --> First algorithm code for POC
 
