@@ -36,6 +36,17 @@ This project is part of a larger, ongoing research initiative that I joined duri
 - Kalman Filter and Zero-Velocity Update (ZUPT) algorithms to reduce drift
 - Modular architecture to support sensor replacement and system scaling
 
+## Hardware Design 
+![PCB Schematic](Images/PCB-Schematic.png)
+![PCB Layout](Images/PCB-Design.png)
+![PCB 3D View](Images/PCB-3D-View.png)
+<table>
+  <tr>
+    <td><img src="Images/PCB-Design.png" alt="PCB layout" width="600"/></td>
+    <td><img src="Images/PCB-3D-View.png" alt="PCB 3D View" width="600"/></td>
+  </tr>
+</table>
+
 ## Software Design - Digital Post Processing
 ![Block Diagram](Images/Kalman-Filter-Block-Diagram-Bird-Project.png)
 
