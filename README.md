@@ -38,8 +38,6 @@ This project is part of a larger, ongoing research initiative that I joined duri
 
 ## Hardware Design 
 ![PCB Schematic](Images/PCB-Schematic.png)
-![PCB Layout](Images/PCB-Design.png)
-![PCB 3D View](Images/PCB-3D-View.png)
 <table>
   <tr>
     <td><img src="Images/PCB-Design.png" alt="PCB layout" width="600"/></td>
