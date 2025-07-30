@@ -1,7 +1,7 @@
 # IMU-Bird-Flight-Monitoring
 
 ## Contributors
-- **Isaac Medina** - Firmware development, digital post processing, and visualization
+- **Isaac Medina** - Firmware development, PCB design, digital post processing, and visualization
   - Tufts University Undergraduate - Class of 2027
   - Electrical Engineering
 
