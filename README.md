@@ -47,7 +47,7 @@ This project is part of a larger, ongoing research initiative that I joined duri
 <table>
   <tr>
     <td><img src="Images/PCB-Design.png" alt="PCB layout" width="600"/></td>
-    <td><img src="Images/PCB-3D-View-.png" alt="PCB 3D View" width="600"/></td>
+    <td><img src="Images/PCB-3D-View-W-Compentents.png" alt="PCB 3D View" width="600"/></td>
   </tr>
 </table>
 
