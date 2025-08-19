@@ -33,7 +33,7 @@ This project is part of a larger, ongoing research initiative that I joined duri
 - Real-time data collection from 6-DoF and 9-DoF IMUs (LSM6DS3 and BNO055) --> 9-DoF BNO055 for final implementation
 - Embedded system design for data logging and wireless transmission via BLE using nRF52832 
 - Python scripts for filtering, integration, and 3D trajectory reconstruction
-- Kalman Filter and Zero-Velocity Update (ZUPT) algorithms to reduce drift
+- Kalman Filter and Zero-Velocity Update (ZUPT) algorithms to reduce drift  gg
 - Modular architecture to support sensor replacement and system scaling
 
 ## Hardware Design 
