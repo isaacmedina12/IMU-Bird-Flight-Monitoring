@@ -40,14 +40,14 @@ This project is part of a larger, ongoing research initiative that I joined duri
 ![PCB Schematic](Images/PCB-Schematic.png)
 <table>
   <tr>
-    <td><img src="Images/PCB-3D-View-No-Compentent.png" alt="PCB Frontside Footprints Only" width="600"/></td>
-    <td><img src="Images/PCB-3D-View-Backside.png" alt="PCB 3D View Backside" width="600"/></td>
+    <td><img src="Images/PCB-3D-View-No-Compentent.png" alt="PCB Frontside Footprints Only" width="500"/></td>
+    <td><img src="Images/PCB-3D-View-Backside.png" alt="PCB 3D View Backside" width="500"/></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="Images/PCB-Design.png" alt="PCB layout" width="600"/></td>
-    <td><img src="Images/PCB-3D-View-W-Compentents.png" alt="PCB 3D View" width="600"/></td>
+    <td><img src="Images/PCB-Design.png" alt="PCB layout" width="500"/></td>
+    <td><img src="Images/PCB-3D-View-W-Compentents.png" alt="PCB 3D View" width="500"/></td>
   </tr>
 </table>
 
