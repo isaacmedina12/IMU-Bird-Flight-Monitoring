@@ -26,7 +26,7 @@ This repository contains firmware, data processing scripts, analysis tools, and 
 
 The goal of this project is to reconstruct accurate 3D motion paths of free-moving birds using lightweight, onboard IMU sensors. This enables researchers to monitor flight behavior and subtle movement patterns in a minimally or even non-invasive manner, with applications in ethology, biomechanics, and assessing environmental stress.
 
-**Further Documentation and Details** 
+**Further Documentation and Details:** [https://drive.google.com/drive/folders/13ZLHDZwBnFIGaNL608wH95rKQjg1W_1H?usp=drive_link](url)
 
 ## Project Context
 This project is part of a larger, ongoing research initiative that I joined during the Spring 2025 semester at Tufts University, focused on understanding physiological stress responses in birds. The broader research aims to develop a noninvasive framework for monitoring both behavioral and physiological markers of stress in birds. By combining IMU-derived flight data with additional physiological data (e.g., heart rate, hormone levels), the project contributes to a growing field of ecophysiological monitoring technologies.
