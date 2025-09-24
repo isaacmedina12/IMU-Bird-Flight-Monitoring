@@ -1,4 +1,4 @@
-# BNO055 position tracking script v1.0
+# BNO055 position tracking script v2.0
 # Tufts University - School of Engineering 
 # Department of Electrical and Computer Engineering 
 # Sonkusale Research Lab
