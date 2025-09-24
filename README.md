@@ -6,7 +6,7 @@
   - Electrical Engineering
 
 ## Institutional Affiliations
-This project is conducted as part of ongoing research in the **Sonkusale Research Lab** in collaboration with the **Romero Lab** <br> salkdjalskd
+This project is conducted as part of ongoing research in the **Sonkusale Research Lab** in collaboration with the **Romero Lab** <br> **Due to Tufts University policy, I cannot show images or videos of the birds or where the testing takes place**
 
 **Tufts University** <br>
 Department of Electrical and Computer Engineering <br>
